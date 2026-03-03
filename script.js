@@ -33,7 +33,7 @@ if (answer.toLowerCase() === "y") {
       console.log("You cross the bridge and reach the end of the game!");
     } else {
       console.log(
-        "You turn back and trip on a log and hurt your leg. You lose."
+        "You turn back and trip on a log and hurt your leg. You lose." // oversee this action.
       );
     }
   }
